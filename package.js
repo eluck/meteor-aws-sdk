@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'SDK for AWS services including Amazon S3, Amazon EC2, DynamoDB, and Amazon SWF',
-  version: '2.0.23',
+  version: '2.0.23.1',
   git: 'https://github.com/eluck/meteor-aws-sdk.git'
 });
 
