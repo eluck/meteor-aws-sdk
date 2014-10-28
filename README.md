@@ -37,5 +37,5 @@ Installation
 ------------
 
 ```
-mrt add aws-sdk
+meteor add eluck:aws-sdk
 ```
